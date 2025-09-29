@@ -54,11 +54,12 @@
   <a href="https://instagram.com/ilker_eml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <!-- Web Site (Logo ile) -->
+  <!-- Web Site -->
   <a href="https://aistatica.online/" target="_blank">
-    <img src="https://aistatica.online/wp-content/uploads/2025/09/file_000000006d586243b9bd9dff24b809d2-2.png" alt="Website Logo" height="28"/>
+    <img src="https://img.shields.io/badge/Web_Site-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000" alt="Website"/>
   </a>
 </p>
+
 
 
 
