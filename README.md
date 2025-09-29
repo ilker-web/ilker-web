@@ -40,26 +40,25 @@
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/ilker-web" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="border-radius:20px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ilker-emül-0321a7323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="border-radius:20px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <!-- Gmail -->
   <a href="mailto:socialmya06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="border-radius:20px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/ilker_eml" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius:20px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <!-- Web Site -->
   <a href="https://aistatica.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Site-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website" style="border-radius:20px;"/>
+    <img src="https://img.shields.io/badge/Web_Site-000000?style=flat&logo=firefox&logoColor=white&labelColor=000000" alt="Website"/>
   </a>
 </p>
-
 
 ---
 ✨ Buradaki projeler, öğrenme sürecimden profesyonelliğe giden yolculuğumu yansıtıyor.
