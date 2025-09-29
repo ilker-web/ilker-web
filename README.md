@@ -9,7 +9,7 @@
 ## 🚀 Kullandığım Teknolojiler
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/)
 ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white)
 ![MAXQDA](https://img.shields.io/badge/MAXQDA-0099CC?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
