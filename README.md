@@ -8,10 +8,24 @@
 
 ## 🚀 Kullandığım Teknolojiler
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SPSS](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Maxqda](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <!-- Programlama Dilleri -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius:20px;"/>
+
+  <!-- Veri Analizi & Bilim -->
+  <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/MAXQDA-0099CC?style=for-the-badge&logoColor=white" alt="MAXQDA" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" style="border-radius:20px;"/>
+
+  <!-- Veritabanı -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius:20px;"/>
+
+  <!-- Araçlar -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="border-radius:20px;"/>
+</p>
 
 
 ---
