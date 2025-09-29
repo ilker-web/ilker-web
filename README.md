@@ -2,7 +2,13 @@
 
 💻 Analiz sevdalısı bir veri bilimciyim.  
 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
-⚡ İlgi alanlarım: Veri analizi, Veri bilimi, Yapay Zeka, Yazılım, Veritabanı ve İstatistik  
+⚡ İlgi alanlarım:  
+- Veri Analizi  
+- Veri Bilimi  
+- Yapay Zeka  
+- Yazılım  
+- Veritabanı  
+- İstatistik
 
 ---
 
@@ -15,14 +21,18 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=**kullaniciAdin**&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**kullaniciAdin**&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
 
 ---
 
@@ -53,4 +63,4 @@
 
 
 ---
-✨ Burada paylaştığım projeler öğrenme sürecimi ve ilgilendiğim teknolojileri yansıtıyor. Hepsi öğrenim sürecimin en başından sonuna kadar.
+✨ Buradaki projeler, öğrenme sürecimden profesyonelliğe giden yolculuğumu yansıtıyor.
