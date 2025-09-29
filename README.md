@@ -11,7 +11,7 @@
 <p align="left">
   <!-- Programlama Dilleri -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius:20px;"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="" style="border-radius:20px;"/>
 
   <!-- Veri Analizi & Bilim -->
   <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" style="border-radius:20px;"/>
