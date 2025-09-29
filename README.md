@@ -47,5 +47,7 @@
     <img src="https://img.shields.io/badge/Web_Site-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website" style="border-radius:20px;"/>
   </a>
 </p>
+
+
 ---
 ✨ Burada paylaştığım projeler öğrenme sürecimi ve ilgilendiğim teknolojileri yansıtıyor. Hepsi öğrenim sürecimin en başından sonuna kadar.
