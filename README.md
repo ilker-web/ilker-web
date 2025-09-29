@@ -10,8 +10,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SPSS](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Maxqda](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -28,4 +29,4 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:socialmya06@gmail.com)  
 
 ---
-✨ Burada paylaştığım projeler öğrenme sürecimi ve ilgilendiğim teknolojileri yansıtıyor.  
+✨ Burada paylaştığım projeler öğrenme sürecimi ve ilgilendiğim teknolojileri yansıtıyor. Hepsi öğrenim sürecimin en başından sonuna kadar.
