@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Bana Ulaş
+## 🌐 İletişim
 
 <p align="left">
   <!-- GitHub -->
