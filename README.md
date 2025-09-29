@@ -39,11 +39,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="border-radius:20px;"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/kullaniciAdin" target="_blank">
+  <a href="https://instagram.com/ilker_eml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius:20px;"/>
   </a>
   <!-- Web Site -->
-  <a href="https://www.sitenizinadi.com" target="_blank">
+  <a href="https://www.aistatica.online" target="_blank">
     <img src="https://img.shields.io/badge/Web_Site-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website" style="border-radius:20px;"/>
   </a>
 </p>
