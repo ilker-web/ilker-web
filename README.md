@@ -56,9 +56,10 @@
   </a>
   <!-- Web Site (Logo ile) -->
   <a href="https://aistatica.online/" target="_blank">
-    <img src="./file_000000006d586243b9bd9dff24b809d2.png" alt="Website Logo" height="40"/>
+    <img src="https://aistatica.online/wp-content/uploads/2025/09/file_000000006d586243b9bd9dff24b809d2-2.png" alt="Website Logo" height="40"/>
   </a>
 </p>
+
 
 ---
 ✨ Buradaki projeler, öğrenme sürecimden profesyonelliğe giden yolculuğumu yansıtıyor.
