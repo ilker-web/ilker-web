@@ -27,7 +27,7 @@
 
 <p align="left">
   <!-- GitHub -->
-  <a href="https://github.com/ilkerrr" target="_blank">
+  <a href="https://github.com/ilker-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="border-radius:20px;"/>
   </a>
   <!-- LinkedIn -->
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius:20px;"/>
   </a>
   <!-- Web Site -->
-  <a href="https://www.aistatica.online" target="_blank">
+  <a href="https://aistatica.online/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Site-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website" style="border-radius:20px;"/>
   </a>
 </p>
