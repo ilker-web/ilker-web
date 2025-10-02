@@ -66,8 +66,17 @@
   </a>
 </p>
 
+---
 
+## 🛠️ Hizmetlerimiz  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Veri_Analizi-4caf50?style=for-the-badge&logo=tableau&logoColor=white" alt="Veri Analizi"/>
+  <img src="https://img.shields.io/badge/Makine_Öğrenmesi-f39c12?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Makine Öğrenmesi"/>
+  <img src="https://img.shields.io/badge/Yapay_Zeka-9b59b6?style=for-the-badge&logo=python&logoColor=white" alt="Yapay Zeka"/>
+  <img src="https://img.shields.io/badge/Veri_Tabanı-3498db?style=for-the-badge&logo=mysql&logoColor=white" alt="Veri Tabanı"/>
+  <img src="https://img.shields.io/badge/Raporlama-e74c3c?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Raporlama"/>
+</p>
 
 ---
 <p align="center">
