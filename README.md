@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/Web_Site-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000" alt="Website"/>
   </a>
   <a href="https://link.aistatica.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Link_Page-1DA1F2?style=flat&logo=linktree&logoColor=white&labelColor=1DA1F2" alt="Link Page"/>
   </a>
 </p>
 
