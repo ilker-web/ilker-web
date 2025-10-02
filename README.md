@@ -1,8 +1,9 @@
 # 👋 Selamlar, ben İlker
 
-💻 Analiz sevdalısı bir veri bilimciyim.  
+💻 Sherlock Holmes tarzında bir istatistikçiyim
 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
 ⚡ İlgi alanlarım:  
+
 - Veri Analizi  
 - Veri Bilimi  
 - Yapay Zeka  
@@ -66,4 +67,6 @@
 
 
 ---
-✨ Buradaki projeler, öğrenme sürecimden profesyonelliğe giden yolculuğumu yansıtıyor.
+<p align="center">
+  ✨ Yarınlar için çalışıp bugünü yaşamalıyız ✨
+</p>
