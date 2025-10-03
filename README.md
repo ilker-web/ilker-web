@@ -4,12 +4,12 @@
 * 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
 * ⚡ İlgi alanlarım:  
 
-- Veri Analizi  
-- Veri Bilimi  
-- Yapay Zeka  
-- Yazılım  
-- Veritabanı  
-- İstatistik
+  - Veri Analizi  
+  - Veri Bilimi  
+  - Yapay Zeka  
+  - Yazılım  
+  - Veritabanı  
+  - İstatistik
 
 ---
 
