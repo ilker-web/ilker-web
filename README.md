@@ -73,20 +73,16 @@
 <p align="left">
   <!-- SPSS -->
   <a href="https://bionluk.com/ilkereml/sizin-icin-SPSS-veri-girisi-ve-analizini-yapabilirim-767261" target="_blank">
-    <img src="https://img.shields.io/badge/SPSS-004B87?style=flat&logo=ibm&logoColor=white&labelColor=004B87" alt="SPSS"/>
-  </a>
+    <img src="https://img.shields.io/badge/SPSS-004B87?style=flat&logo=ibm&logoColor=white&labelColor=004B87" alt="SPSS"/> </a>
   <!-- Python -->
   <a href="https://bionluk.com/ilkereml/python-ile-verilerinizi-gorsellestirebilir-yorum-yapabilirim-790790" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  </a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/> </a>
   <!-- SQL -->
   <a href="https://bionluk.com/ilkereml/profesyonel-SQL-veritabani-analizi-ve-optimizasyonu-yaparim-800220" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" alt="SQL"/>
-  </a>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" alt="SQL"/> </a>
   <!-- Google Forms -->
   <a href="https://bionluk.com/ilkereml/sizin-icin-etkili-Google-Forms-anketi-hazirlayabilirim-791919" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=flat&logo=google-forms&logoColor=white&labelColor=7248B9" alt="Google Forms"/>
-  </a>
+    <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=flat&logo=google-forms&logoColor=white&labelColor=7248B9" alt="Google Forms"/> </a>
 </p>
 
 ---
