@@ -1,7 +1,7 @@
 # 👋 Selamlar, ben İlker
 
-💻 Sherlock Holmes tarzında bir istatistikçiyim
-🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
+- 💻 Sherlock Holmes tarzında bir istatistikçiyim
+- 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
 ⚡ İlgi alanlarım:  
 
 - Veri Analizi  
