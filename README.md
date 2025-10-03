@@ -2,7 +2,7 @@
 
 - 💻 Sherlock Holmes tarzında bir istatistikçiyim
 - 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
-⚡ İlgi alanlarım:  
+- ⚡ İlgi alanlarım:  
 
 - Veri Analizi  
 - Veri Bilimi  
