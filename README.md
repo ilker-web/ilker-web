@@ -56,12 +56,8 @@
   <a href="https://instagram.com/ilker_eml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <!-- Web Site -->
-  <a href="https://aistatica.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Site-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000" alt="Website"/>
-  </a>
   <!-- Link Page -->
-  <a href="https://link.aistatica.online/" target="_blank">
+  <a href="https://linktr.ee/ilkereml" target="_blank">
     <img src="https://img.shields.io/badge/Link_Page-1DA1F2?style=flat&logo=linktree&logoColor=white&labelColor=1DA1F2" alt="Link Page"/>
   </a>
 </p>
