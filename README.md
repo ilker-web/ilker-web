@@ -79,6 +79,8 @@
   <!-- Google Forms -->
   <a href="https://bionluk.com/ilkereml/sizin-icin-etkili-Google-Forms-anketi-hazirlayabilirim-791919" target="_blank">
     <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=flat&logo=google-forms&logoColor=white&labelColor=7248B9" alt="Google Forms"/> </a>
+  <a href="https://bionluk.com/ilkereml/sizin-icin-maxqda-kullanarak-nitel-veri-analizi-yapabilirim-821424" target="_blank">
+    <img src="https://img.shields.io/badge/MAXQDA-0096D6?style=flat&logo=icon&logoColor=white&labelColor=0096D6" alt="Maxqda"/> </a>
 </p>
 
 ---
