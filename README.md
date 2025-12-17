@@ -29,6 +29,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=flat&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-009688?style=flat&logo=databricks&logoColor=white)
 
 ---
 
