@@ -32,6 +32,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=flat&logo=python&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-009688?style=flat&logo=databricks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 ---
 
