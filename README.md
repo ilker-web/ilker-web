@@ -26,7 +26,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-
+![R](https://www.r-project.org/Rlogo.png)
 ---
 
 ## 📊 GitHub İstatistiklerim
