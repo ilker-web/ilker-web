@@ -91,5 +91,5 @@
 
 ---
 <p align="center">
-  ✨ Yarınlar için çalışıp bugünü yaşamalıyız ✨
+  ✨ En iyi veri işlenmemiş veridir ✨
 </p>
