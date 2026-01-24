@@ -42,4 +42,23 @@
 ---
 
 ## 🌍 İletişim
-- GitHub: [ilker-web](https://github.com/ilker-web)
+<p align="center">
+  <a href="https://github.com/ilker-web">
+    <img src="https://img.shields.io/badge/GitHub-ilker--web-181717?style=plastic&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/">
+    <img src="https://img.shields.io/badge/LinkedIn-İlker%20Eml-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:socialmya06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-socialmya06-D14836?style=plastic&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/lker0623">
+    <img src="https://img.shields.io/badge/Kaggle-lker0623-20BEFF?style=plastic&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ilker_eml">
+    <img src="https://img.shields.io/badge/Instagram-ilker__eml-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/ilkereml">
+    <img src="https://img.shields.io/badge/Linktree-ilkereml-43E55E?style=plastic&logo=linktree&logoColor=black"/>
+  </a>
+</p>
