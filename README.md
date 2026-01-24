@@ -5,11 +5,12 @@
 - ⚡İlgi alanlarım:
 
   * Veri Analizi
-  * Veri Bilimi  
-  * AI
-  * Yazılım
-  * Veritabanı
+  * Veri Bilimi
   * İstatistik
+  * AI
+  * Veritabanı
+  * Veri İşleme
+  * Veri Görüntüleme  
 
 ---
 
@@ -29,7 +30,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
 </p>
-
 
 
 ---
