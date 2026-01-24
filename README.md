@@ -1,17 +1,13 @@
-# 👋 Hi, I'm İlker
+# 👋 Hello, I'm İlker
 
-🎓 Statistics Student @ Fırat University  
-📊 Data Science & Analytics Enthusiast  
-💻 Python | SQL | C | Statistical Analysis  
-
----
-
-## 🛠️ Technologies & Tools
-- **Languages:** Python, C  
-- **Data:** Pandas, NumPy, SQL  
-- **Stats:** SPSS, AMOS  
-- **Visualization:** Matplotlib, Seaborn  
-
+Kullandığım Programlar/Araçlar;
+* SPSS
+* Maxqda
+* Python
+* C
+* R
+* Makine Öğrenmesi
+* Derin Öğrenme
 ---
 
 ## 📈 GitHub Stats
