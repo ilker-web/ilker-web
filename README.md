@@ -1,8 +1,8 @@
 # 👋 Hello, I'm İlker
 
-📊 Veri Bilimi & Yapay Zekâ meraklısı
-💻 Sherlock Holmes tarzında bir veri bilimciyim.
-⚡ İlgi alanlarım:
+- 📊 Veri Bilimi & Yapay Zekâ meraklısı
+- 💻 Sherlock Holmes tarzında bir veri bilimciyim.
+- ⚡İlgi alanlarım:
 
   * Veri Analizi
   * Veri Bilimi  
