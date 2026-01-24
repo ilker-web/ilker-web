@@ -39,6 +39,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilker-web&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyonight)
+
 ---
 
 ## 🌍 İletişim
