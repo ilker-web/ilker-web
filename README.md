@@ -1,13 +1,15 @@
 # 👋 Hello, I'm İlker
 
-Kullandığım Programlar/Araçlar;
-* SPSS
-* Maxqda
-* Python
-* C
-* R
-* Makine Öğrenmesi
-* Derin Öğrenme
+📊 Veri Bilimi & Yapay Zekâ meraklısı
+💻 Sherlock Holmes tarzında bir veri bilimciyim.
+⚡ İlgi alanlarım:
+
+  * Veri Analizi
+  * Veri Bilimi  
+  * AI
+  * Yazılım
+  * Veritabanı
+  * İstatistik
 
 ---
 
