@@ -66,6 +66,6 @@
 --- 
 
 <p align="center">
-  ⭐ <i>En iyi veri işlenmemiş veridir!</i> ☪︎ 𐱅𐰇𐰼𐰰 ☪︎
+  ⭐ <i>En iyi veri işlenmemiş veridir!</i> ⭐
 </p>
 
