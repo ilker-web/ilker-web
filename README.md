@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm İlker
 
-<!--
-**ilker-web/ilker-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics Student @ Fırat University  
+📊 Data Science & Analytics Enthusiast  
+💻 Python | SQL | C | Statistical Analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** Python, C  
+- **Data:** Pandas, NumPy, SQL  
+- **Stats:** SPSS, AMOS  
+- **Visualization:** Matplotlib, Seaborn  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilker-web&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- GitHub: [ilker-web](https://github.com/ilker-web)
