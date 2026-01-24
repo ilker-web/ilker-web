@@ -41,9 +41,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3)
-
-
 ---
 
 ## 🌍 İletişim
