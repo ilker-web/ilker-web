@@ -62,3 +62,10 @@
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
   </a>
 </p>
+
+--- 
+
+<p align="center">
+  ☪️⭐ <i>En iyi veri işlenmemiş veridir!</i> ☪️⭐
+</p>
+
