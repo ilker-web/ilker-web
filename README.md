@@ -1,6 +1,6 @@
-# 👋 Hello, I'm İlker
+# 👋 Hello, I'm ilker
 
-- 📊 Data Science & AI meraklısı
+- 📊 Data Science & AI
 - 💻 A Sherlock Holmes–minded data scientist.
 - ⚡ Interests:
 
