@@ -69,6 +69,6 @@
 --- 
 
 <p align="center">
-  ⭐ <i>En iyi veri işlenmemiş veridir!</i> ⭐
+  ⭐ <i>The best data is raw data!</i> ⭐
 </p>
 
