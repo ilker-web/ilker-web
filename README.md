@@ -1,6 +1,6 @@
 # 👋 Hello, I'm ilker
 
-- 📊 Data Science & AI
+- 📊 Data Science & AI & Data Analysis
 - 💻 A Sherlock Holmes–minded data scientist.
 - ⚡ Interests:
 
