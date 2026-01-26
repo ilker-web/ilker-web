@@ -45,7 +45,7 @@
 ---
 
 ## 🌍 İletişim
-<p align="left">
+<p align="center">
   <a href="https://github.com/ilker-web">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   </a>
