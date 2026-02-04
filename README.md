@@ -1,5 +1,6 @@
 # 👋 Hello, I'm ilker
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Statistics+Student;Python+Developer;Data+Science+Enthusiast;Learning+AI)
+<p align="left">
+        ![Typing SVG](https://readme-typing-svg.demolab.com?                 font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Statistics+Student;Python+Developer;Data+Science+Enthusiast;Learning+AI)
 
 - 📊 Data Science & AI & Data Analysis
 - 💻 A Sherlock Holmes–minded data scientist.
