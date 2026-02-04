@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night)
+![Profile Views](https://komarev.com/ghpvc/?username=ilker-web&color=blueviolet&style=for-the-badge)
 
 ---
 
