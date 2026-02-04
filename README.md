@@ -1,6 +1,4 @@
 # 👋 Hello, I'm ilker
-<p align="left">
-        ![Typing SVG](https://readme-typing-svg.demolab.com?                 font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Statistics+Student;Python+Developer;Data+Science+Enthusiast;Learning+AI)
 
 - 📊 Data Science & AI & Data Analysis
 - 💻 A Sherlock Holmes–minded data scientist.
@@ -34,6 +32,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
 </p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-003366?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
