@@ -37,10 +37,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&cache_seconds=86400&v=3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight&cache_seconds=86400&v=3)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilker-web&theme=tokyonight)
 
 
