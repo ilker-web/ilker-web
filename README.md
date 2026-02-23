@@ -36,25 +36,45 @@
 
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       height="170"
-       style="border-radius: 20px;" />
-
-  <img src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
-       height="170"
-       style="border-radius: 20px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"
-       style="border-radius: 20px;" />
-</p>
+<div align="center">
+
+<a href="https://github.com/ilker-web">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
+</a>
+
+<a href="https://github.com/ilker-web">
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ilker-web">
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.20), 0 0 38px rgba(167,139,250,0.16);"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ilker-web">
+  <img width="920"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"
+       style="border-radius:18px; box-shadow:0 0 22px rgba(125,249,255,0.18), 0 0 45px rgba(167,139,250,0.12);"/>
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"
-       style="border-radius: 20px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0ea5e9,100:a78bfa&section=footer"/>
 </p>
 
 
