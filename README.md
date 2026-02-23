@@ -37,18 +37,18 @@
 
 ## 📊 GitHub Stats
 
-<br />
-
 <p align="center">
-  <a>
-     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilker-web&theme=material-
-     palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
-     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"/>
+</p>
 
 
 
