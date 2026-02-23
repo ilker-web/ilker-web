@@ -45,23 +45,10 @@
 
 <a href="https://github.com/ilker-web">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
-</a>
-
-<a href="https://github.com/ilker-web">
-  <img height="180"
        src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
        style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/ilker-web">
-  <img height="190"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"
-       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.20), 0 0 38px rgba(167,139,250,0.16);"/>
-</a>
 
 <br/><br/>
 
