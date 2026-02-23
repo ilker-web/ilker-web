@@ -38,16 +38,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       height="170"
+       style="border-radius: 20px;" />
+
+  <img src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
+       height="170"
+       style="border-radius: 20px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=donut&theme=tokyonight&hide_border=true"
+       style="border-radius: 20px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"
+       style="border-radius: 20px;" />
 </p>
 
 
