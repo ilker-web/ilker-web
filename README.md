@@ -35,7 +35,7 @@
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GİTHUB STATS
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
   />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌍 Contact
+## 🌍 CONTACT
 <p align="center">
   <a href="https://github.com/ilker-web">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
