@@ -78,7 +78,7 @@
   <a href="https://www.instagram.com/ilker_eml">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/ilkereml">
+  <a href="https://linkstack.aistatica.online/@ilker">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
   </a>
 </p>
