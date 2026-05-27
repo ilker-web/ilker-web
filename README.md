@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkstack.aistatica.online/@ilker">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
+    <img src="https://repository-images.githubusercontent.com/459095253/199af19f-7cd9-494a-93c3-3e9e12929041"/>
   </a>
 </p>
 
