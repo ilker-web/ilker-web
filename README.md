@@ -42,7 +42,7 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 <div align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+       src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-ilker.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)"
        style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
 </div>
 
