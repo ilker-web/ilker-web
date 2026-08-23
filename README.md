@@ -1,19 +1,21 @@
-# 👋 Hello, I'm ilker
-
-- 📊 Data Science & AI & Data Analysis
-- 💻 A Sherlock Holmes–minded data scientist.
-- ⚡ Interests:
-
-  * Data Analysis
-  * Data Science
-  * Statistic
-  * AI
-  * Database Systems  
-  * Data Structures  
-  * Data Processing  
-  * Data Visualization
+<h1 align="center">Merhaba, ben İlker 👋</h1>
+<p align="center">
+  <i>Veriyle konuşan, sayılarda hikâye arayan bir Data Scientist.</i>
+</p>
 
 ---
+
+### 🔎 Kimim?
+
+Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahip bir veri bilimci gibi düşünüyorum: her ipucu bir hipotez, her grafik bir kanıt. 
+
+- 📊 **Odak alanlarım:** Data Science, AI, İstatistik, Veri Analizi
+- 🧠 **İlgi duyduğum konular:** Veritabanı Sistemleri · Veri Yapıları · Veri İşleme · Veri Görselleştirme
+- 🚀 Şu an: Python & makine öğrenmesi projeleri üzerinde derinleşiyorum
+
+---
+
+### 🛠️ Kullandığım Araçlar & Teknolojiler
 
 <p align="center">
   <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
@@ -34,12 +36,12 @@
 
 ---
 
+### 📈 GitHub İstatistikleri
 
-## 📊 GİTHUB STATS
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"/>
 </p>
+
 <div align="center">
 <a href="https://github.com/ilker-web">
   <img height="180"
@@ -53,15 +55,15 @@
        style="border-radius:18px; box-shadow:0 0 22px rgba(125,249,255,0.18), 0 0 45px rgba(167,139,250,0.12);"/>
 </a>
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0ea5e9,100:a78bfa&section=footer"/>
 </p>
 
-
-
 ---
 
-## 🌍 CONTACT
+### 🌍 Bana Ulaşın
+
 <p align="center">
   <a href="https://github.com/ilker-web">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
@@ -83,9 +85,6 @@
   </a>
 </p>
 
---- 
-
 <p align="center">
-  ⭐ <i>The best data is raw data!</i> ⭐
+  ⭐ <i>Ham veri, en dürüst hikâyedir.</i> ⭐
 </p>
-
