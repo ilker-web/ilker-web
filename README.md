@@ -36,8 +36,8 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 ### 🎓 Eğitim & Sertifikalar
 
-**Fırat Üniversitesi** — İstatistik *(Eylül 2024 – Haziran 2028)*
-GNO: 3.04 / 4.00
+- **Fırat Üniversitesi** — İstatistik *(Eylül 2024 – Haziran 2028)*
+  - GNO: 3.04 / 4.00
 
 <details>
 <summary>📜 Sertifikalar (tümünü gör)</summary>
