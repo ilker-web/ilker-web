@@ -34,6 +34,29 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 ---
 
+### 🎓 Eğitim & Sertifikalar
+
+**Fırat Üniversitesi** — İstatistik *(Eylül 2024 – Haziran 2028)*
+GNO: 3.04 / 4.00
+
+<details>
+<summary>📜 Sertifikalar (tümünü gör)</summary>
+<br>
+
+- 🧠 MİUUL — Yapay Zekâ Yaz Kampı (Python, Yapay Zekâ, Veri Bilimi)
+- 🧠 MİUUL — Veri Bilimi Bootcamp
+- 🧠 MİUUL — Veri Bilimi için Python Programlama
+- 🧠 MİUUL — Doğal Dil İşleme (NLP)
+- 🧠 MİUUL — Yapay Zekâ Bootcamp
+- 📊 MİUUL — Power BI ile Veri Görselleştirme ve Raporlama
+- 🐍 HEMBA — Nesne Yönelimli Python Programlama
+- 🤖 HEMBA — Yapay Zekâ
+- 🐍 T3 Vakfı — Python Programlama
+
+</details>
+
+---
+
 ### 🌍 Bana Ulaşın
 
 <p align="center">
