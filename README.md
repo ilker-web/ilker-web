@@ -41,17 +41,26 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 </p>
 
 <div align="center">
-<a href="https://github.com/ilker-web">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
+</div>
+
+<div align="center">
+  <br/>
   <img height="180"
        src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
        style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
-</a>
-<br/><br/>
-<a href="https://github.com/ilker-web">
+</div>
+
+<div align="center">
+  <br/>
   <img width="920"
        src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"
        style="border-radius:18px; box-shadow:0 0 22px rgba(125,249,255,0.18), 0 0 45px rgba(167,139,250,0.12);"/>
-</a>
 </div>
 
 <p align="center">
