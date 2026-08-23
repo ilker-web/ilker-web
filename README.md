@@ -1,15 +1,15 @@
 <h1 align="center">Merhaba, ben İlker 👋</h1>
 <p align="center">
-  <i>Veriyle konuşan, sayılarda hikâye arayan bir Data Scientist.</i>
+  <i>Data Analyst & Data Scientist — veriyle konuşan, sayılarda hikâye arayan biri.</i>
 </p>
 
 ---
 
 ### 🔎 Kimim?
 
-Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahip bir veri bilimci gibi düşünüyorum: her ipucu bir hipotez, her grafik bir kanıt. 
+Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahip bir veri analisti / veri bilimciyim: her ipucu bir hipotez, her grafik bir kanıt.
 
-- 📊 **Odak alanlarım:** Data Science, AI, İstatistik, Veri Analizi
+- 📊 **Odak alanlarım:** Data Analysis, Data Science, AI, İstatistik
 - 🧠 **İlgi duyduğum konular:** Veritabanı Sistemleri · Veri Yapıları · Veri İşleme · Veri Görselleştirme
 - 🚀 Şu an: Python & makine öğrenmesi projeleri üzerinde derinleşiyorum
 
@@ -18,20 +18,18 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 ### 🛠️ Kullandığım Araçlar & Teknolojiler
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAXQDA-FF6F00?style=plastic"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=plastic"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=plastic"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
 </p>
 
 ---
@@ -39,7 +37,7 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 ### 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+Analyst+%26+Data+Scientist;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"/>
 </p>
 
 <div align="center">
