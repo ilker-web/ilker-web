@@ -34,6 +34,18 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 ---
 
+### 📌 Öne Çıkan Projeler
+
+- 📊 **Satış Dashboard (Excel)** — ~2.900 satış kaydından oluşan veri setini PivotTable, formüller ve dashboard araçlarıyla analiz ederek ürün, personel ve şehir bazında dinamik bir kârlılık raporlama paneli oluşturdum.
+
+- 📈 **İstatistiksel Analizler (SPSS / AMOS / MAXQDA)** — Akademik araştırmalarda veri temizleme, hipotez testleri, korelasyon, regresyon, faktör analizi (EFA/CFA) ve yapısal eşitlik modellemesi (SEM) süreçlerini yönettim.
+
+- 🎲 **İstatistiksel Dağılım Hesaplayıcı (Python)** — Poisson, geometrik, hipergeometrik, binom ve negatif binom dağılımlarını kullanıcıdan alınan parametrelerle hesaplayan terminal tabanlı bir program.
+
+- ✅ **To-Do List (Python)** — Hem arayüzlü hem terminal üzerinden çalışan, görev ekleme/düzenleme/silme ve son tarih atama özellikli, verileri her işlemde otomatik kaydeden bir görev yönetim uygulaması.
+
+---
+
 ### 🎓 Eğitim & Sertifikalar
 
 - **Fırat Üniversitesi** — İstatistik *(Eylül 2024 – Haziran 2028)*
