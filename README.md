@@ -5,7 +5,7 @@
 
 ---
 
-### 🔎 Kimim?
+### 🔎 Ben Kimim?
 
 Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahip bir veri analisti / veri bilimciyim: her ipucu bir hipotez, her grafik bir kanıt.
 
