@@ -77,7 +77,6 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 <a href="mailto:socialmya06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
 <a href="https://www.kaggle.com/lker0623"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/></a>
 <a href="https://www.instagram.com/ilker_eml"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
-<a href="https://linkstack.aistatica.online/@ilker"><img src="https://img.shields.io/badge/LinkStack-1F1F1F?style=plastic&logo=linktree&logoColor=white"/></a>
 </p>
 
 <p align="center">
