@@ -71,7 +71,7 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 ### 🌍 İletişim
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ilker-web"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:socialmya06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
@@ -79,6 +79,6 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 <a href="https://www.instagram.com/ilker_eml"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="left">
+<p align="center">
   ⭐ <i>Ham veri, en dürüst hikâyedir.</i> ⭐
 </p>
