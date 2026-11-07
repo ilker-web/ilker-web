@@ -17,7 +17,7 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 
 ### 🛠️ Kullandığım Araçlar & Teknolojiler
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
@@ -79,6 +79,6 @@ Verinin arkasındaki hikâyeyi çözmeyi seven, Sherlock Holmes disiplinine sahi
 <a href="https://www.instagram.com/ilker_eml"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   ⭐ <i>Ham veri, en dürüst hikâyedir.</i> ⭐
 </p>
